@@ -4,7 +4,7 @@ Hello, I am a young man who likes to program and understand new technologies. I 
 
 
 
-currently under development[ JAVA ](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px" > and cloud native <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px">
+currently under development JAVA <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px" > and cloud native <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px">
 
 You can follow me on Twitter and Github：
 [![推特：ThaiiBraga ](https://img.shields.io/twitter/follow/SuancaiR?style=social)](https://twitter.com/SuancaiR)
