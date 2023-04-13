@@ -1,4 +1,4 @@
-### 嘿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hello, I am a young man who likes to program and understand new technologies. I like to use various technologies to solve practical problems. I have basic theoretical and practical experience while maintaining a passion for learning. I have good analytical and thinking skills. I have learned in a variety of development environments. Technical essence and implementing practical skills I am passionate about working with teams to develop and share technological advancements I have learned a lot from the open source community I love the way open source enables collaboration and knowledge sharing
 
