@@ -1,25 +1,25 @@
 ### 嘿 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hello 我是一个喜欢编程和了解新技术的极客 喜欢利用各种技术来解决实际问题 我有基本的理论和实践经验 同时也保持学习热情 我有着良好的分析和思维能力 在多种开发环境中领悟技术精髓并实现实践技能 我热衷于与团队合作 共同开发及分享技术进步
+Hello, I am a young man who likes to program and understand new technologies. I like to use various technologies to solve practical problems. I have basic theoretical and practical experience while maintaining a passion for learning. I have good analytical and thinking skills. I have learned in a variety of development environments. Technical essence and implementing practical skills I am passionate about working with teams to develop and share technological advancements I have learned a lot from the open source community I love the way open source enables collaboration and knowledge sharing
 
 
 
-目前正在开发[ JAVA ](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px" > 和云原生 <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px">
+currently under development[ JAVA ](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px" > and cloud native <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px">
 
-你可以关注我的 Twitter 和 Github：
+You can follow me on Twitter and Github：
 [![推特：ThaiiBraga ](https://img.shields.io/twitter/follow/SuancaiR?style=social)](https://twitter.com/SuancaiR)
 [![ GitHub Thaiane ](https://img.shields.io/github/followers/rage-suancai?label=follow&style=social)](https://github.com/rage-suancai)
 
 
 
-### 平台和工具
+### Platforms and Tools
 
 [![](https://img.shields.io/badge/Browser-FireFox-4285f4?style=flat-square&logo=firefox&logoColor=ffffff)]
 [![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)]
 
 
-### 代码与技巧
+### code and tricks
 
 [![](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=ffffff)](https://www.wireguard.com/)
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
@@ -46,5 +46,5 @@ Hello 我是一个喜欢编程和了解新技术的极客 喜欢利用各种技�
 
 
 
-<p align="left"> Github 简介奖杯：
+<p align="left"> Github Profile Trophy：
 	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&主题=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten" /></a> </p>
