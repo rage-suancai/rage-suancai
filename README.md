@@ -4,7 +4,7 @@ Hello 我是一个喜欢编程和了解新技术的极客 喜欢利用各种技�
 
 
 
-目前正在开发[ JAVA ](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px" > 和云原生 <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px"> 。
+目前正在开发[ JAVA ](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px" > 和云原生 <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px">
 
 你可以关注我的 Twitter 和 Github：
 [![推特：ThaiiBraga ](https://img.shields.io/twitter/follow/cnghostwritten?style=social)](https://twitter.com/SuancaiR)
