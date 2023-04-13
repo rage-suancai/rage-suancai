@@ -7,8 +7,8 @@ Hello 我是一个喜欢编程和了解新技术的极客 喜欢利用各种技�
 目前正在开发[ JAVA ](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px" > 和云原生 <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px">
 
 你可以关注我的 Twitter 和 Github：
-[![推特：ThaiiBraga ](https://img.shields.io/twitter/follow/cnghostwritten?style=social)](https://twitter.com/SuancaiR)
-[![ GitHub Thaiane ](https://img.shields.io/github/followers/Ghostwritten?label=follow&style=social)](https://github.com/rage-suancai)
+[![推特：ThaiiBraga ](https://img.shields.io/twitter/follow/SuancaiR?style=social)](https://twitter.com/SuancaiR)
+[![ GitHub Thaiane ](https://img.shields.io/github/followers/rage-suancai?label=follow&style=social)](https://github.com/rage-suancai)
 
 
 
@@ -16,7 +16,7 @@ Hello 我是一个喜欢编程和了解新技术的极客 喜欢利用各种技�
 
 [![](https://img.shields.io/badge/Browser-FireFox-4285f4?style=flat-square&logo=firefox&logoColor=ffffff)]
 [![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/)
-[![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio .com/)
+[![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)]
 
 
 ### 代码与技巧
