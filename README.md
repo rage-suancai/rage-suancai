@@ -10,16 +10,10 @@ Hello 我是一个喜欢编程和了解新技术的极客 喜欢利用各种技�
 [![推特：ThaiiBraga ](https://img.shields.io/twitter/follow/cnghostwritten?style=social)](https://twitter.com/SuancaiR)
 [![ GitHub Thaiane ](https://img.shields.io/github/followers/Ghostwritten?label=follow&style=social)](https://github.com/rage-suancai)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" / >
-
-
-
-
 
 
 ### 平台和工具
 
-[![](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur /)
 [![](https://img.shields.io/badge/Browser-FireFox-4285f4?style=flat-square&logo=firefox&logoColor=ffffff)]
 [![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio .com/)
@@ -54,4 +48,3 @@ Hello 我是一个喜欢编程和了解新技术的极客 喜欢利用各种技�
 
 <p align="left"> Github 简介奖杯：
 	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&主题=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten" /></a> </p>
-
