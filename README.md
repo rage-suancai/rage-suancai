@@ -15,7 +15,7 @@ You can follow me on Twitter and Github：
 ### Platforms and Tools
 
 [![](https://img.shields.io/badge/Browser-FireFox-4285f4?style=flat-square&logo=firefox&logoColor=ffffff)]
-[![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/)
+[![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=ffffff)]
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)]
 
 
@@ -40,7 +40,7 @@ You can follow me on Twitter and Github：
 
 
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=rage-suancai&show_icons=true&theme=dark&hide_border=false" alt="Ghostwritten" width=50% /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=rage-suancai&show_icons=true&theme=dark&hide_border=false" alt="rage-suancai" width=50% /></span>
 <a href="https://app.daily.dev/rage-suancai" ><img src="https://api.daily.dev/devcards/cdfc7a689b9c4fa7b9dfa529683fe998.png?r=n7h" width="180" height= "200" alt="BlackSwanGreen 的开发卡"/></a>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=rage-suancai&theme=dark" alt="Ghostwritten" width=50% /></span>
 
