@@ -41,7 +41,7 @@ You can follow me on Twitter and Github：
 
 
 <span><img src="https://github-readme-stats.vercel.app/api?username=rage-suancai&show_icons=true&theme=dark&hide_border=false" alt="rage-suancai" width=50% /></span>
-<a href="https://www.codewars.com/users/rage_suancai"><img src="https://www.codewars.com/users/rage_suancai/badges/large" width="180" height= "200" alt="SuanCai 的开发卡"/></a>
+<a href="https://www.codewars.com/users/rage_suancai"><img src="https://www.codewars.com/users/rage_suancai/badges/large" width="250" height= "250" alt="SuanCai 的开发卡"/></a>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=rage-suancai&theme=dark" alt="Ghostwritten" width=50% /></span>
 
 
